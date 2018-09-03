@@ -1,0 +1,8 @@
+:root {
+    --c-first: #fff;
+    --c-second: #118BCB;  /*  background footer, button */
+    --c-third: #f7f7f7; /* background form */
+    --c-contrast: #F43221; /* button BUY , clear form */
+    --c-text: #111;
+    --c-text-light: #4a4a4a;
+}

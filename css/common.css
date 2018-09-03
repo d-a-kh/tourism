@@ -1,0 +1,29 @@
+@import url(variable.css);
+
+body {
+    background: var(--c-first);
+    font-family: sans-serif;
+}
+
+.page-footer {
+    background: var( --c-second);
+    color: var( --c-first);
+}
+
+h1, h2, h3, h4, h5 {
+    /* font-family: 'Marck Script', cursive; */
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}

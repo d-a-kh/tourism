@@ -1,0 +1,6 @@
+@import url(variable.css);
+
+header {
+    background: var(--c-second);
+    color: var(--c-first);
+}

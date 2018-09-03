@@ -1,0 +1,13 @@
+header
+
+servise
+about
+features
+team
+testimonials
+statistics
+contact-form
+select-tour
+our-partners
+
+footer
